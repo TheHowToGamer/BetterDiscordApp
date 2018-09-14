@@ -1,0 +1,14 @@
+//META{"name":"New_Nova","author":"TheHowToGamer","version":"1.0.0"}*//
+
+/THIS IS A BETTER DISCORD THEME. IT IS A WORKING AND VERY BASIC VERSION OF THE "NOVA THEME" WHICH IS ALREADY PRESENT IN GITHUB. I MADE A NEW VERSION AS THE OLD ONE STOPPED WORKING IN THE BETTER DISCORD OF MANY PEOPLE.*/
+
+:root {
+	--transparencycolor: 0,0,0;		
+	--transparencyalpha: 0.0;		
+	--messagetransparency: 0.0;
+	--guildchanneltransparency: 0.0;
+	--memberlistransparency: 0.0;
+	--accentcolor: 190,78,180;
+	--background: url(https://i.imgur.com/h0YyOD7.png); 
+	--backdrop: rgba(0,0,0,0);
+}
